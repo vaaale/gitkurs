@@ -1,2 +1,7 @@
-alert("What are you thinking!?!?!");
+(function() {
+  
+  alert("What are you thinking!?!?!");
+
+})();
+
 
