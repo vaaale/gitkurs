@@ -1,7 +1,5 @@
 (function() {
-  
-  alert("What are you thinking!?!?!");
-
+    alert("What are you thinking!?!?!");
 })();
 
 
